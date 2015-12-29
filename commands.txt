@@ -29,3 +29,8 @@ npm install --save-dev gulp
 npm install --save-dev gulp-util
 
 gulp log
+
+npm install --save-dev gulp-coffee
+
+gulp coffee
+
