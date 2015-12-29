@@ -47,4 +47,5 @@ set NODE_ENV=production
 gulp
 
 
-
+npm install --save-dev gulp-if
+npm install --save-dev gulp-uglify
