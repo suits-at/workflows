@@ -50,3 +50,6 @@ gulp
 npm install --save-dev gulp-if
 npm install --save-dev gulp-uglify
 npm install --save-dev gulp-htmlmin
+npm install --save-dev gulp-jsonminify
+npm install --save-dev gulp-imagemin
+npm install --save-dev imagemin-pngquant
