@@ -49,3 +49,4 @@ gulp
 
 npm install --save-dev gulp-if
 npm install --save-dev gulp-uglify
+npm install --save-dev gulp-htmlmin
