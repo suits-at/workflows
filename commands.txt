@@ -1,0 +1,31 @@
+install git, node, ruby
+
+cls //clear comand line
+
+node:
+npm install -g gulp
+npm install -g browserify
+
+ruby:
+gem update
+gem install sass
+gem install compass
+
+npm init //set up new project
+
+git:
+git init
+
+git commit -m "message asdf"
+git log
+git status
+
+git checkout 69cdb9982648b820d1dedfcdfd515c8f13323444
+
+git branch
+
+gulp:
+npm install --save-dev gulp
+npm install --save-dev gulp-util
+
+gulp log
