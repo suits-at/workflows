@@ -34,3 +34,5 @@ npm install --save-dev gulp-coffee
 
 gulp coffee
 
+npm install --save-dev gulp-concat
+
